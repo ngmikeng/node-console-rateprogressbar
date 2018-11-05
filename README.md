@@ -28,6 +28,12 @@ const inter = setInterval(() => {
 }, 100);
 ```
 
+The console will show:
+
+```
+Loading: [##################################################] | 100.00%
+```
+
 ## Options
 - **label** (`string`): Show label on the left of progress bar, leave `null` or `undefined` for hiding.
 - **symbol** (`string`): Define a symbol show on progress bar, default is `=`.
