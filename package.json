@@ -1,0 +1,24 @@
+{
+  "name": "@ngmikeng/node-console-rateprogressbar",
+  "version": "1.0.0",
+  "description": "A simple function for showing a progress bar in node console.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "typescript",
+    "nodejs",
+    "progressbar"
+  ],
+  "author": {
+    "name": "Minh Nguyen",
+    "url": "https://github.com/ngmikeng"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.12.2",
+    "typescript": "^2.9.2"
+  }
+}
